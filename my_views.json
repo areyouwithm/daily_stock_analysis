@@ -1,0 +1,41 @@
+{
+  "00700.HK": {
+    "ticker": "00700.HK",
+    "name": "腾讯控股",
+    "sector": "应用层（平台+模型+Agent）",
+    "core_thesis": "微信AI Agent是下一个iOS时刻，混元Hy3模型能力进入全球第一梯队，调用量增长68倍验证产品市场匹配度",
+    "bull_case": "微信Agent四季度公测，DAU快速爬坡至亿级；混元API调用量维持周环比50%+增长；游戏AI NPC带来10%以上ARPU提升",
+    "bear_case": "Agent商业化慢于预期，资本开支侵蚀利润30%+；游戏监管收紧；模型投入ROI低于预期",
+    "base_case_price_target_hkd": 520,
+    "bull_case_price_target_hkd": 620,
+    "bear_case_price_target_hkd": 400,
+    "position_sizing": "核心仓位 8-12%",
+    "time_horizon": "中期配置 3-6个月"
+  },
+  "09988.HK": {
+    "ticker": "09988.HK",
+    "name": "阿里巴巴",
+    "sector": "基础设施层（云+模型+Agent）",
+    "core_thesis": "阿里云AI收入增速45%验证需求爆发，企业级Agent产品矩阵最完整，电商基本盘提供安全边际，估值历史低位",
+    "bull_case": "AI云收入占比提升至30%+，Agent产品ARPU翻倍；电商份额企稳回升；阿里云分拆或引入战略投资者释放价值",
+    "bear_case": "云业务价格战加剧，利润率持续压缩；电商被拼多多/抖音持续蚕食；Agent产品客户付费意愿低",
+    "base_case_price_target_hkd": 135,
+    "bull_case_price_target_hkd": 170,
+    "bear_case_price_target_hkd": 95,
+    "position_sizing": "核心仓位 6-10%",
+    "time_horizon": "中期配置 3-6个月"
+  },
+  "688981.SH": {
+    "ticker": "688981.SH",
+    "name": "中芯国际",
+    "sector": "基础设施层（芯片代工）",
+    "core_thesis": "国产AI芯片代工核心，AI服务器需求爆发直接受益，高盛'GS中国AI价值链'核心标的，国产替代不可逆",
+    "bull_case": "AI芯片代工订单排满至2027年，先进制程突破14nm以下；国产替代率从15%提升至30%+；行业周期向上",
+    "bear_case": "美国制裁升级限制DUV设备；先进制程良率爬坡不及预期；半导体周期下行拖累产能利用率",
+    "base_case_price_target_cny": 95,
+    "bull_case_price_target_cny": 130,
+    "bear_case_price_target_cny": 60,
+    "position_sizing": "卫星仓位 4-6%",
+    "time_horizon": "中期配置 3-6个月，可长期持有"
+  }
+}
